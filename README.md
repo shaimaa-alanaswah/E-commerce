@@ -1,2 +1,4 @@
 # E-commerce
-laravel 10 , Mysql 
+laravel 10 
+Mysql
+paypal payment
